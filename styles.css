@@ -1,0 +1,157 @@
+/* Your existing CSS code goes here */
+
+.size {
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 22px;
+    color: white;
+}
+
+.col {
+    color: white;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.bg {
+    border-style: solid;
+    border-color: black;
+    width: 300px;
+    margin: 21px;
+    text-align: center;
+    padding: 12px;
+    border-radius: 12px;
+}
+
+.main {
+    font-size: 17px;
+}
+
+.but {
+    background-color: goldenrod;
+    color: white;
+    border-color: red;
+    font-weight: bold;
+    border-width: 3px;
+}
+
+.cart-container {
+    margin-top: 30px;
+}
+
+.cart-container h2 {
+    text-align: center;
+}
+
+.cart-container #cart-count {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.cart-item {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.remove-btn {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.imagesize {
+    height: 150px;
+    width: 150px
+}
+
+.size {
+    font-weight: bold;
+}
+
+.m {
+    margin-top: 48px;
+    margin-bottom: 48px;
+}
+
+.imgs {
+    height: 500px;
+    width: 500px;
+    gap: 2rem;
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+.heading {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.sub-head {
+    color: black;
+    font-weight: bold;
+
+}
+
+.footer-section {
+    background-color: black;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding: 30px;
+    padding-left: 27px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.clr {
+    font-size: 30px
+}
+
+.imagesize1 {
+    height: 100px;
+    width: 100px
+}
+
+.m {
+    margin-bottom: 12px;
+    width: 100%;
+}
